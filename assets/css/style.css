@@ -1,0 +1,29 @@
+body {
+    background: gray;
+}
+
+h2 {
+    text-align: center;
+}
+
+.navbar {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 100px;
+}
+
+.card {
+    text-align: center;
+}
+
+.card-text {
+    border-style: dashed;
+    border-color: gray;
+    padding: 50px;
+}
+
+.btn {
+    background: #81f7ee;
+    border-color: #81f7ee;
+    color: black;
+}
