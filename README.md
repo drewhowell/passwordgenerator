@@ -1,4 +1,4 @@
-# passwordgenerator
+# Password Generator
 
 ## Purpose
 For companies that handle large amounts of sensitive data, weak passwords can pose a real security threat. An application that can generate strong passwords quickly and effortlessly saves employees time and ensures secure access to data. 
@@ -26,7 +26,7 @@ After all prompts are answered, the user is presented with a password matching t
 
 ## Images
 
-![password generator demo](./Assets/03-JavaScript-homework-demo.png)
+![password generator](assets/images/passwordgenerator.png)
 
 ## Links
 
