@@ -8,7 +8,7 @@ function criteriaPrompt() {
         alert("Password length must be greater than 8");
     }
 
-    else if (characterLimit >128) {
+    else if (characterLimit > 128) {
         alert("Password length must be less than 128");
     }
 
@@ -22,9 +22,9 @@ function criteriaPrompt() {
     console.log(uppercase);
 
     }
+
 }
 
-//Create password based off of criteria selected
-if (characterLimit < 8) {
-    alert("Password length must be greater than 8");
-}
+
+
+
